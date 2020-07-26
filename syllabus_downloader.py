@@ -1,6 +1,5 @@
 import urllib.request
 import json
-import itertools
 import time
 
 links = ['https://apps.wharton.upenn.edu/syllabi/api/syllabi-list-results/?term=2020A&sections=ACCT',
